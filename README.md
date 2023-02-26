@@ -124,21 +124,24 @@ Options below are not recommended see comment for each (left in just in case)
 a little less (384) for slight variation ..not fully tested. Probably doesn't make  
 much diff from testing I have done
 
-### 128: Don't respawn items: - Maybe an option for EASY, won't be enough ammo / health for harder difficulties:
+### 128: Don't respawn items:
+- Maybe an option for EASY, won't be enough ammo / health for harder difficulties:
 
    Items will not respawn, even in coop. This applies to health and ammo. Note  
 armor will still be available for all players.
 
-### 256: Don't carry items over - Joining players will need weapons:
+### 256: Don't carry items over 
+- Joining players will need weapons:
 
    Cooperative: When players spawn, they will not be given weapons or items that  
 have been found or carried over by other players.
 
-### 512: Don't start with extra ammo - Likely to have major ammo shortages:
+### 512: Don't start with extra ammo
+- Likely to have major ammo shortages:
 
    The player will not be given extra ammo for nails, rockets and cells when  
 spawning or starting a map.
-=============================================================
+
 
 ## How to set Short Game options: saved2
 
