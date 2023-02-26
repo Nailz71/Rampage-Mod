@@ -1,7 +1,4 @@
-
-************************************			Last Update 27 Feb 2023
-* RAMPAGE coop Mod for 1-8 Players *
-************************************
+RAMPAGE coop Mod for 1-8 Players 
 Public Release V1.0
 
 Install Instructions:
@@ -19,15 +16,15 @@ Choose the HARD passage for 3-6 Players.
 
 Choose the NIGHTMARE passage for 4-8 Players.
 
-Alternativly Nightmare only can be activated (saved1 4) where all passages set Nightmare.
+Alternatively Nightmare only can be activated (saved1 4) where all passages set Nightmare.
 
 Play the game :)
 
-If you have used mods previously you may want to check the cvars saved1 & saved2  are set to default '0'
-see below how these can be used to activate various game options.
-----------------------------------------------------------
+You may want to check the cvars saved1 & saved2  are set to default '0'
+See below how these can be used to activate different Game Mode Options.
 
-Some of the Mods gameplay features:
+------------------------------------------------------------------------
+Some of the Mods game play features:
 
 AXE - If you have 5 cells or more the axe will do more damage (enough to gib a  zombie) and take 5 cells.
 
@@ -44,9 +41,9 @@ easily get you on top of crate for example.
 
 Short Game option. see How to set Short Game options: saved2
 
-Revised Shub Fight! Shub is kept under an energy sheild by Wizard Scraggs
+Revised Shub Fight! Shub is kept under an energy shield by Wizard Scraggs
 that shoot spells at her, killing the wizards on screen will release shub from
-the spell & is then vulnarble to damage from weapons, be quick & shoot
+the spell & is then vulnerable to damage from weapons, be quick & shoot
 before she rebirths more wizards.
 
 Note: Some options such as more than 4 players in a coop game require quakepatches by Jpiolho
@@ -67,8 +64,7 @@ The Mod uses the spawn multiplied monsters used in Nightmare+ mod by JPiolho.
 Depending on the Passage chosen a balanced & progressive (hopefully) set of  
 difficulties is activated other than EASY which is 1x Monsters with 1.5x hp
 
-For example, HARD Passage will have 2x Monsters for the first 2 maps of an episode,  
-then 3x Monsters for the rest of the episode, some maps will also have Monsters  with even higher HP.
+For example, HARD Passage will have 2x Monsters for the first 2 maps of an episode,  then 3x Monsters for the rest of the episode, some maps will also have Monsters  with even higher HP.
 The above varies depending on the particular map & episode.
 
 ----------------------------------------------------------
@@ -79,14 +75,14 @@ The above varies depending on the particular map & episode.
 
 2. The change will take effect on the next Map or on map restart.
 
-## Game modes
+## Optional Game modes:
 You can activate multiple gamemodes by adding the values together. (eg: 1+2 = 3).
 
-### 1: Extra Ammo: In most cases this shouldnt be needed, it maybe useful in some intances.
+### 1: Extra Ammo:
 
    Players start ammo will be increased by 20%
 
-### 2: Double Jump: This of course breaks some maps (players can take shortcuts) it's fun but it can cause some issues in public games due to this.
+### 2: Double Jump:
 
    Tap the jump button twice to Double Jump, reach new areas, avoid getting hit or  
 jump over monsters / players.
@@ -95,17 +91,15 @@ jump over monsters / players.
 
    Activates Nightmare Difficulty regardless of which passage is chosen.
 
+
 ### 8: No Early Exit: 
 
-   Dislike it when players skip through maps rocket jumping to get keys early ?
-with this setting players will not be able to leave map with an  
-undisclosed number of enemies still alive! They will Gib on exit & be given a msg  
-about there being too many monsters alive to exit yet.
+Players will not be able to leave map with an undisclosed number of enemies still alive! They will Gib on exit & be given a msg  about there being too many monsters alive to exit yet.
 
 Before using Plague Mode below, NOTE: this changes the speed, BE SURE to change it back before playing a different game or hosting DM etc.
-Type 'sv_maxspeed 320' into console or idealy put that line in your AUTOEXEC.cfg
+Type 'sv_maxspeed 320' into console or ideally put that line in your AUTOEXEC.cfg
 
-### 16: Plague Mode: NOTE: this also sets the server setting  
+### 16: Plague Mode: NOTE: this also changes the server setting:
 sv_maxspeed to 250 (default 320).
 
    The Plague has gone through Ranger Town - Players start with reduced HP 75 &  
@@ -121,10 +115,8 @@ Player Names will NOT be displayed while in sight of the crosshair.
    Items can respawn, even in singleplayer. This applies to health and ammo Note  
 armor will not respawn.
 
-
-=============================================================================
+=============================================================
 Options below are not recommended see comment for each (left in just in case)
-=============================================================================
 
 ### 64: Disperse Monsters:
 
@@ -132,7 +124,7 @@ Options below are not recommended see comment for each (left in just in case)
 a little less (384) for slight variation ..not fully tested. Probably doesn't make  
 much diff from testing I have done
 
-### 128: Don't respawn items - Maybe an option for EASY, won't be enough ammo / health for harder difficulties:
+### 128: Don't respawn items: - Maybe an option for EASY, won't be enough ammo / health for harder difficulties:
 
    Items will not respawn, even in coop. This applies to health and ammo. Note  
 armor will still be available for all players.
@@ -146,10 +138,8 @@ have been found or carried over by other players.
 
    The player will not be given extra ammo for nails, rockets and cells when  
 spawning or starting a map.
+=============================================================
 
-
-
-**********************************************************
 ## How to set Short Game options: saved2
 
 ## Short Game options
@@ -188,8 +178,7 @@ Saved4 3 = NIGHTMARE
 These can be used to set the difficulty rather than go through the start passage  
 portal.
 
-Note: In RAMPAGE Mod, SKILL is not the same as difficulty. SKILL should always be  
-set at 2 (HARD).
+Note: In RAMPAGE Mod, SKILL is not the same as difficulty. SKILL should always be set at 2 (HARD).
 
 At times in coop a player may activate EASY even though the host wanted to play on  
 HARD, the above can be used to manually override the chosen setting, will require a  
@@ -199,19 +188,12 @@ difficulty at the start of each episode & shub
 
 Have Fun :)
 
-#Credits - It should be noted most of the actual coding is from various Authors of  
-other Mods.
-
+#Credits - Some coding is also from various Authors of  other Mods.
 Nailz - RAMPAGE Mod Author
-
 OSP - Code Specifically Written for RAMPAGE Mod, Thanks.
-
 JPiolho - QENightmarePlus (2021)
-
 Patrick Martin - Cranked Mod (1998)
-
 Teamred - Double Jump
-
 
 **********************************************************
 Detailed Installation:
