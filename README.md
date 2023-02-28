@@ -1,7 +1,8 @@
-RAMPAGE coop Mod for 1-8 Players 
+RAMPAGE coop Mod for 1-8 Players.
 Public Release V1.0
 
 Install Instructions:
+
 Install the Mod in the usual way ie. type game mpmod (more detail at end of file). 
 
 Play Instructions:
