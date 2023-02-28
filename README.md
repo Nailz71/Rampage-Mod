@@ -1,8 +1,6 @@
-RAMPAGE coop Mod for 1-8 Players.
-Public Release V1.0
+RAMPAGE coop Mod for 1-8 Players (Public Release V1.0)
 
 Install Instructions:
-
 Install the Mod in the usual way ie. type game mpmod (more detail at end of file). 
 
 Play Instructions:
@@ -24,7 +22,7 @@ Play the game :)
 You may want to check the cvars saved1 & saved2  are set to default '0'
 see below how these can be used to activate various game options.
 
-----------------------------------------------------------------------
+---------------------------------------------------------------------
 
 Some of the Mods game play features:
 
@@ -117,7 +115,8 @@ Player Names will NOT be displayed while in sight of the crosshair.
    Items can respawn, even in singleplayer. This applies to health and ammo Note  
 armor will not respawn.
 
-=============================================================
+-------------------------------------------------------------------------------
+
 Options below are not recommended see comment for each (left in just in case)
 
 ### 64: Disperse Monsters:
@@ -140,7 +139,8 @@ have been found or carried over by other players.
 
    The player will not be given extra ammo for nails, rockets and cells when  
 spawning or starting a map.
-=============================================================
+
+-----------------------------------------------------------------------------
 
 ## How to set Short Game options: saved2
 
