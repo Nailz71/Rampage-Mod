@@ -96,6 +96,7 @@ jump over monsters / players.
 
 Players will not be able to leave map with an undisclosed number of enemies still alive! They will Gib on exit & be given a msg  about there being too many monsters alive to exit yet.
 
+
 Before using Plague Mode below, NOTE: this changes the speed, BE SURE to change it back before playing a different game or hosting DM etc.
 Type 'sv_maxspeed 320' into console or ideally put that line in your AUTOEXEC.cfg
 
