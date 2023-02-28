@@ -21,9 +21,9 @@ Alternatively Nightmare only can be activated (saved1 4) where all passages set 
 Play the game :)
 
 You may want to check the cvars saved1 & saved2  are set to default '0'
-See below how these can be used to activate different Game Mode Options.
+see below how these can be used to activate various game options.
+----------------------------------------------------------
 
-------------------------------------------------------------------------
 Some of the Mods game play features:
 
 AXE - If you have 5 cells or more the axe will do more damage (enough to gib a  zombie) and take 5 cells.
@@ -124,24 +124,21 @@ Options below are not recommended see comment for each (left in just in case)
 a little less (384) for slight variation ..not fully tested. Probably doesn't make  
 much diff from testing I have done
 
-### 128: Don't respawn items:
-- Maybe an option for EASY, won't be enough ammo / health for harder difficulties:
+### 128: Don't respawn items: - Maybe an option for EASY, won't be enough ammo / health for harder difficulties:
 
    Items will not respawn, even in coop. This applies to health and ammo. Note  
 armor will still be available for all players.
 
-### 256: Don't carry items over 
-- Joining players will need weapons:
+### 256: Don't carry items over - Joining players will need weapons:
 
    Cooperative: When players spawn, they will not be given weapons or items that  
 have been found or carried over by other players.
 
-### 512: Don't start with extra ammo
-- Likely to have major ammo shortages:
+### 512: Don't start with extra ammo - Likely to have major ammo shortages:
 
    The player will not be given extra ammo for nails, rockets and cells when  
 spawning or starting a map.
-
+=============================================================
 
 ## How to set Short Game options: saved2
 
@@ -192,11 +189,17 @@ difficulty at the start of each episode & shub
 Have Fun :)
 
 #Credits - Some coding is also from various Authors of  other Mods.
+
 Nailz - RAMPAGE Mod Author
+
 OSP - Code Specifically Written for RAMPAGE Mod, Thanks.
+
 JPiolho - QENightmarePlus (2021)
+
 Patrick Martin - Cranked Mod (1998)
+
 Teamred - Double Jump
+
 
 **********************************************************
 Detailed Installation:
