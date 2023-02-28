@@ -1,10 +1,14 @@
 RAMPAGE coop Mod for 1-8 Players (Public Release V1.0)
 
 Install Instructions:
+
 Install the Mod in the usual way ie. type game mpmod (more detail at end of file). 
 
+
 Play Instructions:
+
 Start a Quake campaign coop game from the Start Map! (e1m1 is not the start map).
+
 
 Recommended Difficulties:
 Choose the EASY passage for 1-2 Players.
@@ -51,7 +55,7 @@ current version can be found here:
 
 https://github.com/jpiolho/QuakePatches/releases/tag/version-1.12.0
 
-----------------------------------------------------------
+-----------------------------------------------------------------------------
 
 Technical explanation:
 
@@ -67,7 +71,7 @@ difficulties is activated other than EASY which is 1x Monsters with 1.5x hp
 For example, HARD Passage will have 2x Monsters for the first 2 maps of an episode,  then 3x Monsters for the rest of the episode, some maps will also have Monsters  with even higher HP.
 The above varies depending on the particular map & episode.
 
-----------------------------------------------------------
+-----------------------------------------------------------------------------
 
 ## How to set gamemodes: saved1
 
@@ -116,7 +120,7 @@ Player Names will NOT be displayed while in sight of the crosshair.
    Items can respawn, even in singleplayer. This applies to health and ammo Note  
 armor will not respawn.
 
--------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 Options below are not recommended see comment for each (left in just in case)
 
@@ -166,8 +170,8 @@ episodes & open the floor to Shub!
 This can also be useful if you do experience game crashes :( 
 at least you could restart with the Runes already collected.
 
+-----------------------------------------------------------------------------
 
-**********************************************************
 ## Manual Episode Difficulties: saved4
 
 saved4 0 = EASY
@@ -203,8 +207,8 @@ Patrick Martin - Cranked Mod (1998)
 
 Teamred - Double Jump
 
+-----------------------------------------------------------------------------
 
-**********************************************************
 Detailed Installation:
 
 ## How to install for singleplayer
@@ -240,6 +244,7 @@ the game goes into id1 it will use the files from Saved Games and override.
 2. Start a Quake campaign from the START map
 
 NOTE: Single Player is not fully tested / balanced, taking the EASY passage is recommended as each map must be done with only 1 life.
+You could also just play in local coop mode so then you have multiple lives.
 
 
 END OF FILE.....
