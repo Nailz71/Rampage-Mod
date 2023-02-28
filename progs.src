@@ -1,0 +1,66 @@
+../progs.dat
+
+#define COOP_RESPAWN_ITEMS_FOR_PLAYERS
+// Enables grenade downward slope bounce fix
+#define GRENADE_BOUNCE_FIX
+
+
+defs.qc
+math.qc
+subs.qc
+rampage/sigils.qc	//Osp: added on 14.07.2022
+
+nightmareplus/nightmareplus_defs.qc
+nightmareplus/nightmareplus_subs.qc
+cranked/cranked.qc
+
+
+rampage/maps.qc
+fight.qc
+ai.qc
+combat.qc
+cranked/combat2.qc
+items.qc
+
+rampage/custommaptiers.qc	//Osp: added on 16.07.2022
+//eyebolt.qc			//Osp: added on 17.08.2022
+//rampage/itemchanger.qc		//Osp: added on 10.09.2022
+
+weapons.qc
+
+cranked/mindgas.qc
+
+world.qc
+client.qc
+player.qc
+monsters.qc
+doors.qc
+buttons.qc
+triggers.qc
+plats.qc
+misc.qc
+cranked/check.qc
+
+monsters/ogre.qc
+monsters/demon.qc
+monsters/shambler.qc
+monsters/knight.qc
+monsters/soldier.qc
+monsters/wizard.qc
+monsters/dog.qc
+monsters/zombie.qc
+monsters/boss.qc
+
+rampage/wardweaver.qc		//Rampage/Osp - shub battle stuff
+rampage/shubpitbattle.qc	//Rampage/Osp - shub battle stuff
+
+monsters/tarbaby.qc		// registered
+monsters/hknight.qc		// registered
+monsters/fish.qc			// registered
+monsters/shalrath.qc		// registered
+monsters/enforcer.qc		// registered
+rampage/rampage_spawn.qc  		//nlz: spawn in monsters 26.01.23
+monsters/oldone.qc		// registered
+
+
+nightmareplus/nightmareplus.qc
