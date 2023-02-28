@@ -22,7 +22,8 @@ Play the game :)
 
 You may want to check the cvars saved1 & saved2  are set to default '0'
 see below how these can be used to activate various game options.
-----------------------------------------------------------
+
+----------------------------------------------------------------------
 
 Some of the Mods game play features:
 
