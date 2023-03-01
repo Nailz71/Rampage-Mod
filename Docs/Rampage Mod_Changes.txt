@@ -1,0 +1,139 @@
+List of other changes: (Incomplete)
+
+**********************************************************
+
+
+When starting a new map all players will have 100hp, armor & weapons will be  
+carried over however once a player dies they will respawn without armor & the  
+default amount of ammo.
+
+Ammo related:
+
+When playing on hard or nightmare, nailgun damage is bumped up to 11 from 9 & SNG  
+only takes 1.2 nails instead of the usual 2, to help address ammo shortages.
+
+Grunts drop packs that can contain shells, grenades, nails, & nailgun or SSG  
+weapons, every other Grunt drops a pack.
+
+Orges drop packs with 3 grenades, every other Ogre drops a pack.
+
+Shamblers Drop packs containing (80 nails). Shamblers spend their spare time  
+collecting up nails in case you didn't know :)
+
+Knights are 75% immune to nails due to there armor
+the nails ricochet from thier armor but still cause slight damage
+does not apply to Death Knights as they have much higher hp + thier armor is less convincing.
+
+Lightning Gun Damage is reduced by half, Cells used are also reduced by half.
+
+Other weapons have reduced Damage when inflicting Damage on other players.
+
+**********************************************************
+
+Gameplay Related:
+
+lift delay - by OSP
+
+Checks to see if other players are in range when lift is activated, 
+if so the lift is delayed by 1.5 secs to allow other players to get on
+if not lift activates as normal.
+
+Water does not block the line of sight of Monsters, QE has default water transparency, we can see them so they can see us, with the exception of Fish, Zombies & Knights.
+
+**********************************************************
+
+Map related:
+
+Shub Map - once on the Shub map Friendly fire is disabled (actually technically its 
+triggered when you get to the start map with all runes), this is because it's such  
+a tight passage everyone was killing each other too often
+issue with this is once the game cycles back to the start map FF  
+will now be off even though initially server set it on, 'teamplay 0' will rectify  
+this if you want to do another run with it on (dedicated severs are recommended to  
+just leave it off) 
+
+---------------------------------------------------------
+
+# MonsterMods (in order of appearance)
+
+GRUNTS:
+
+Some grunts use nailguns, some use super shotgun, they can also throw grenades &  
+have varied health, they also drop packs that can contain the above weapons &  
+relative ammo.
+
+OGRE:
+
+Changes to the way ogres throw grenades.
+Only 50% of ogres drop packs (3 Rockets)
+
+SCRAGG: (aka Wizard)
+
+Scraggs can teleport, mostly when they are in large areas, they zip around as you  
+shoot at them, there attacks are also faster & they have new sounds when attacking  
+& when escaping danger.
+
+
+FIEND: (aka Demon)
+
+These bad boys can jump much higher, much further & can also come back from the  
+dead!
+
+ZOMBIE:
+
+A Zombie Gib has small a chance to explode in your face. 
+Crucified Zombies can also be gibbed
+
+SHAMBLER:
+
+Has a new spell that can also be used when their lightning spell is out of range.
+
+
+ENFORCER:
+
+These super soldiers have faster laser guns, they can fire more shots in  
+succession.
+
+DEATH KNIGHT: (aka Hell Knight)
+
+New spells & new animations
+
+VORE: (AKA Shal-rath)
+
+The spike mine missile, makes players dizzy for a few seconds after impact, the  
+missile does not fizzle out, it must be exploded into a wall / pillar / monster /  
+player. New powerful Lava Cube spell they throw sometimes. Invisible cloak until sighted.
+
+SPAWN: (aka Tarbaby ; Blob)
+
+New Sounds
+
+Shub:
+
+lots of changes to Shub & end.bsp map
+
+--------------------------------------------------------------
+
+# known Bugs / issues (there are probably more)
+
+Mod is still using the V1.06 base code not update 4 QE code
+
+Split screen doesnt work.
+
+Blackbox will appear for nametags if high contrast setting is on, (nametags can be disabled).
+
+Weapon change settings wont work, this is intentional, all weapons must be manually selected. 
+
+More than 6 players may cause more playfab crashes.
+
+If you do not start from the Start map, you may start with more than 100hp, this is because I made it possible to carry over megahealth capped at 150 (no rot). Its not wise to start game from an episode map, you would have to manually set the map tier difficulty (saved4 0-3) & make sure skill is 2 (HARD).
+
+
+Nailz
+
+
+
+
+
+
+
